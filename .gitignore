@@ -1,0 +1,7 @@
+es_data/*
+es_logs/*
+target/
+*.log*
+*.iml
+*.ipr
+*.iws
